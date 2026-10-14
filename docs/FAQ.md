@@ -98,7 +98,7 @@ before normalizing values.
 ### How do I download all files?
 
 ```bash
-git clone https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle.git
+git clone https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle.git
 ```
 
 A normal `git pull` retrieves files added in later automated commits.

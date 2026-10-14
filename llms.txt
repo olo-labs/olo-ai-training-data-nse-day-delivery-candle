@@ -2,7 +2,7 @@
 
 > Date-partitioned CSV archive of NSE India daily security OHLC prices, bhavcopy trading statistics, volume, deliverable quantity, and delivery percentage from 30 September 2019 onward.
 
-Canonical repository: https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle
+Canonical repository: https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle
 Data directory: Day_Delivery/NSE
 File pattern: Day_Delivery/NSE/delivery_DD-MMM-YYYY.csv
 Logical row key: DATE1 + SYMBOL + SERIES

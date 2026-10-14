@@ -8,8 +8,8 @@
     "NSE Full Bhavcopy and Security Deliverable Data Archive"
   ],
   "description": "A date-partitioned CSV archive of National Stock Exchange of India daily security-level open, high, low, close, previous close, last price, average price, traded quantity, turnover, number of trades, deliverable quantity, and delivery percentage from 30 September 2019 onward. Intended for research, education, reproducible examples, data engineering, and validated backtesting inputs.",
-  "url": "https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle",
-  "identifier": "https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle",
+  "url": "https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle",
+  "identifier": "https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle",
   "keywords": [
     "NSE India historical data",
     "NSE daily OHLC",
@@ -47,6 +47,6 @@
     "@type": "DataDownload",
     "name": "Git repository containing date-partitioned CSV files",
     "encodingFormat": "text/csv",
-    "contentUrl": "https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle/archive/refs/heads/main.zip"
+    "contentUrl": "https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle/archive/refs/heads/main.zip"
   }
 }
