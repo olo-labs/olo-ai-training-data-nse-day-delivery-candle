@@ -10,8 +10,8 @@ abstract: >-
   turnover, deliverable quantity, and delivery percentage from September 2019
   onward. Apache-2.0 applies to original repository code and documentation;
   underlying NSE market data is subject to separate rights and policies.
-repository-code: "https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle"
-url: "https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle"
+repository-code: "https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle"
+url: "https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle"
 keywords:
   - NSE India
   - OHLC

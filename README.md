@@ -55,8 +55,8 @@ data for Python, pandas, DuckDB, machine learning, or backtesting.
 Clone the repository:
 
 ```bash
-git clone https://github.com/olo-labs/olo-testdata-nse-day-delivery-candle.git
-cd olo-testdata-nse-day-delivery-candle
+git clone https://github.com/olo-labs/olo-ai-training-data-nse-day-delivery-candle.git
+cd olo-ai-training-data-nse-day-delivery-candle
 ```
 
 Load one date with Python and pandas:
